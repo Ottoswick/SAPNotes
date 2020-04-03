@@ -2,7 +2,7 @@
 
 baseURL = 'http://www.exampleSite.com'
 title = 'SAP Notes'
-theme = 'Book'
+theme = 'book'
 
 # Book configuration
 disablePathToLower = true
