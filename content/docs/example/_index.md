@@ -1,7 +1,8 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "SAP Modules"
+title: "Example"
+bookhidden: true
 ---
 
 # Introduction
