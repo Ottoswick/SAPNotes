@@ -1,41 +1,23 @@
 ---
 title: Introduction
 type: docs
+
 ---
 
-# Acerbo datus maxime
+# Introduction
 
-{{< columns >}}
-## Astris ipse furtiva
+## What's the point?
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+I am using this blog as a way to capture my notes whilst learning SAP both formally and on the job. A colleague has kindly provided me with SAP training material which I am using as the basis of my study and notes to be captured herein. As I progress through SAP training materials I will record my notes on this blog as preparation for the relevant SAP certification exam.
 
-<--->
+My plan is to study the following SAP modules (in order); Sales and Distribution, Finance, and then Profitability Analysis. The SAP exams relevant to these modules, and that I intend to sit, are:
 
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
+-  [SAP S/4HANA Sales 1909](https://training.sap.com/certification/c_ts462_1909-sap-certified-application-associate---sap-s4hana-sales-1909-g/) ; and
+- [Central Finance in SAP S/4HANA](https://training.sap.com/certification/c_s4fcf_1809-sap-certified-application-associate---central-finance-in-sap-s4hana-g/).
 
 
-## Tempora nisi nunc
+## Getting started
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+First things first, we need a SAP environment to play in. I am fortunate enough that I am currently working on a SAP implementation and so have access to an sandbox environment. If the sandbox was not available to me, [Michael Management](https://www.michaelmanagement.com/sap-access.asp) monthly subscription has been recommended to me as a cheap solution.  
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+The system I am using is SAP S/4HANA 1909 with Fiori, although I am not accessing the system through Fiori and will primarily be using the graphical user interface (GUI).
