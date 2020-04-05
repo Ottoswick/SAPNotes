@@ -2,6 +2,7 @@
 title: Without ToC
 weight: 2
 bookToc: false
+bookHidden: true
 ---
 
 # At me ipso nepotibus nunc celebratior genus
@@ -54,6 +55,6 @@ Ite extrema Phrygiis, patre dentibus, tonso perculit, enim blanda, manibus fide
 quos caput armis, posse! Nocendo fas Alcyonae lacertis structa ferarum manus
 fulmen dubius, saxa caelum effuge extremis fixum tumor adfecit **bella**,
 potentes? Dum nec insidiosa tempora tegit
-[spirarunt](http://mihiferre.net/iuvenes-peto.html). Per lupi pars foliis,
+spirarunt. Per lupi pars foliis,
 porreximus humum negant sunt subposuere Sidone steterant auro. Memoraverit sine:
 ferrum idem Orion caelum heres gerebat fixis?
