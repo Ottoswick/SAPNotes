@@ -1,5 +1,5 @@
 ---
 title: Pricing
-weight: 1
+weight: 3
 ---
 # Pricing
