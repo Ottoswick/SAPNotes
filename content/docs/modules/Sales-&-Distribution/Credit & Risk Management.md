@@ -1,5 +1,5 @@
 ---
 title: Credit & Risk Management
-weight: 1
+weight: 7
 ---
 # Credit & Risk Management
