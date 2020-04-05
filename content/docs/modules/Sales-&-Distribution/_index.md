@@ -24,7 +24,7 @@ Working in conjunction with the other modules, SAP SD enables an order-to-cash b
 
 Each step in the process generates transactions in the SD module, which then generate further transactions in the other system modules. For example, when a sales order is generated in SD, it establishes a link for a product availability check to MM, a credit check to FICO, or a tax calculation to FICO.
 
-## SD Sub-modules
+## Sub-Modules
 
 SAP SD consists of several sub-modules that can be configured to handle specific functions in the module:
 
