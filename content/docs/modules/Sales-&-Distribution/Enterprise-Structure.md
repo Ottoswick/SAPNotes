@@ -2,7 +2,7 @@
 title: Enterprise Structure
 date: 2020-04-05
 weight: 1
-tags: [sales, enterprise structure, master data]
+tags: ["sales, enterprise structure, master data"]
 ---
 # Enterprise Structure
 
@@ -20,6 +20,7 @@ In any business scenario there a multiple elements that come together that allow
 
 Organisational Units are mapped to the system Enterprise Structure. Units may be mapped to one application in the enterprise structure (i.e. Sales unit to Sales and Distribution) or may be mapped to many (i.e. a plant to Materials Management and to Production Planning).
 
-Overview Enterprise Structure example:  
+Overview Enterprise Structure:  
+![Overview](/static/images/ent-str-overview.png)
 
-![Overview](https://github.com/Ottoswick/SAPNotes/blob/master/static/images/ent-str-overview.png)
+...
