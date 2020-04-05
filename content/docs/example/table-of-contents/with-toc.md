@@ -7,12 +7,7 @@ weight: 1
 ## Cognita laeva illo fracta
 
 Lorem markdownum pavent auras, surgit nunc cingentibus libet **Laomedonque que**
-est. Pastor [An](http://est.org/ire.aspx) arbor filia foedat, ne [fugit
-aliter](http://www.indiciumturbam.org/moramquid.php), per. Helicona illas et
-callida neptem est *Oresitrophos* caput, dentibus est venit. Tenet reddite
-[famuli](http://www.antro-et.net/) praesentem fortibus, quaeque vis foret si
-frondes *gelidos* gravidae circumtulit [inpulit armenta
-nativum](http://incurvasustulit.io/illi-virtute.html).
+
 
 1. Te at cruciabere vides rubentis manebo
 2. Maturuit in praetemptat ruborem ignara postquam habitasse
@@ -39,10 +34,7 @@ excutiunt concipit.
 Aurea non fata repertis praerupit feruntur simul, meae hosti lentaque *citius
 levibus*, cum sede dixit, Phaethon texta. *Albentibus summos* multifidasque
 iungitur loquendi an pectore, mihi ursaque omnia adfata, aeno parvumque in animi
-perlucentes. Epytus agis ait vixque clamat ornum adversam spondet, quid sceptra
-ipsum **est**. Reseret nec; saeva suo passu debentia linguam terga et aures et
-cervix [de](http://www.amnem.io/pervenit.aspx) ubera. Coercet gelidumque manus,
-doluit volvitur induta?
+
 
 ## Enim sua
 
