@@ -18,3 +18,6 @@ In any business scenario there a multiple elements that come together that allow
 ## Enterprise Structure
 
 Organisational Units are mapped to the system Enterprise Structure. Units may be mapped to one application in the enterprise structure (i.e. Sales unit to Sales and Distribution) or may be mapped to many (i.e. a plant to Materials Management and to Production Planning).
+
+Overview Enterprise Structure example:
+![ent structure overview](/static/images/ent-str-overview.png "Enterprise Structure Overview")
