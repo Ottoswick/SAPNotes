@@ -6,6 +6,12 @@ tags: []
 
 # Finance
 
+## What is FI?
+
+
+
+## Sub-Modules
+
 Finance (FI) modules include:
 - FI-L General Ledger Accounting
 - FI-AP Accounts Payable
