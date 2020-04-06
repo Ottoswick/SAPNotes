@@ -80,7 +80,7 @@ Sales Area is a combination of sales organization, distribution channel and divi
 
 You can carry out analyses within a sales area, for example, by evaluation sales volume. It is best practice to keep the organisational structure of a sales area as simple as possible.
 
-### Sales Office and Sales Group
+### Sales Office, Sales Group and Salesperson
 
 ![Sales Office and Sales Group](static\images\SD-salesoffice-salesgrp.png)
 
