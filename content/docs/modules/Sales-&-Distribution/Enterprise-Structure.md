@@ -21,7 +21,7 @@ In any business scenario there a multiple elements that come together that allow
 Organisational Units are mapped to the system Enterprise Structure. Units may be mapped to one application in the enterprise structure (i.e. Sales unit to Sales and Distribution) or may be mapped to many (i.e. a plant to Materials Management and to Production Planning).
 
 Overview Enterprise Structure:  
-![Overview](/static/images/ent-str-overview.png)
+![Overview](/images/ent-str-overview.png)
 
 An enterprise is structured in the SAP system according to business functions that must correspond to the functionality assigned to the organisational units.
 
@@ -33,7 +33,7 @@ Examples:
 -	A Storage Location is a storage area comprising warehouses in close proximity. Material stocks can be differentiated within one plant according to storage location (inventory management).
 
 The SD module is integrated with other modules in order to deliver the order to cash process. These modules integrate per below:
-![SD integration](static\images\SD-integration-R3.png)
+![SD integration](/images/SD-integration-R3.png)
 
 ## Organisational Structures in sales
 
@@ -70,7 +70,7 @@ You can make customer-specific agreements for each division, for example regardi
 
 ### Sales Area
 
-![Sales Are](static\images\SD-sales-area.png)
+![Sales Are](/images/SD-sales-area.png)
 
 Sales Area is a combination of sales organization, distribution channel and division. Sales documents, delivery documents, and billing documents are always assigned to a sales area. Every sales process always takes in a specific sales area. The relevant master data can usually be maintained explicitly for each sales area, for example:
 
@@ -82,7 +82,7 @@ You can carry out analyses within a sales area, for example, by evaluation sales
 
 ### Sales Office, Sales Group and Salesperson
 
-![Sales Office and Sales Group](static\images\SD-salesoffice-salesgrp.png)
+![Sales Office and Sales Group](/images/SD-salesoffice-salesgrp.png)
 
 #### Sales office
 Geographical aspects of the organisational structures in business development and sales are defined using sales offices. A sales office can be viewed as an actual office or perhaps a territory or region. Sales offices are assigned to sales areas. If you enter a sales order for a sales office within a particular sales area, the sales office must be permitted for that sales area. A sales office can be assigned to more than one sales area.
