@@ -13,7 +13,7 @@ I am using this blog as a way to capture my notes whilst learning SAP both forma
 
 My plan is to study the following SAP modules (in order); Sales and Distribution, Finance, and then Profitability Analysis. The SAP exams relevant to these modules, and that I intend to sit, are:
 
--  [SAP S/4HANA Sales 1909](https://training.sap.com/certification/c_ts462_1909-sap-certified-application-associate---sap-s4hana-sales-1909-g/) ; and
+-  [SAP S/4HANA Sales 1909](https://training.sap.com/certification/c_ts462_1909-sap-certified-application-associate---sap-s4hana-sales-1909-g/); and
 - [Central Finance in SAP S/4HANA](https://training.sap.com/certification/c_s4fcf_1809-sap-certified-application-associate---central-finance-in-sap-s4hana-g/).
 
 ## What is SAP?
