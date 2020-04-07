@@ -12,7 +12,7 @@ System SAP ERP (previously SAP R/3) has a modular structure; that is, it contain
 
 SAP ERP modules are widely known by their abbreviations. Modules are organized hierarchically; that is, they have submodules (e.g. Fixed Assets FI-AA is a submodule of Finance FI). Some modules are extensions of existing modules, but are not officially a submodule (e.g., Fleet Management FM is an extension of Plant Maintenance PM).
 
-![SAP Modules](static\images\R3-sap-modules.jpg)
+![SAP Modules](/images/R3-sap-modules.jpg)
 
 ## SAP R/3, ECC and S/4HANA
 
