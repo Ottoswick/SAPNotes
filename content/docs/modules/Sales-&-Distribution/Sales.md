@@ -6,13 +6,12 @@ tag: []
 ---
 # Sales
 
-[sales overview diagram]
 describe sales process and overview
 pre-sale > sales order > proc > shipping > billing > payment > recovery
 
 ## Sales processing
 
-[SD document overview]
+![sales document overview](/images/SD-document-overview.png)
 
 These SD documents are discussed below, including how to create.
 
@@ -46,7 +45,7 @@ what is it? what is its purpose in SAP?
 ## Document flow
 The documents in a sales process are linked to each other using the document flow. This enables you to access the history and current status of your sales processes at any time.
 
-[document flow]
+![Document flow](/images/sd-doc-flow.png)
 
 You can display the document flow as a list of linked documents. All preceding and succeeding documents are displayed, depending on the document you call the list from. From this list, you can display the relevant documents or call up status overviews for the documents.
 
