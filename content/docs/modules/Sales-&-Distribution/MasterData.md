@@ -20,6 +20,15 @@ The customer master groups data into categories: general data, sales area data, 
 
 ![Customer Master Data](/images/SD-cust-MD-overview.png)
 
+Customer Master Data will be needed for returning/ regular customers. For one-time customers, a "one-time customer" record is used.
+
+To create a customer master data, use either:
+
+```
+TCODE = VD01
+Menu path = Logistics/ Sales and distribution/ Master data/ Business partners/ Customer/ Create/ Sales & Distribution
+```
+
 ### General Data
 
 The general data is relevant for sales and distribution and for accounting. It is stored centrally (client-specific), in order to avoid data redundancy. It is valid for all organisational units within a client. In order to maintain the general data in the customer master that is relevant for sales and distribution and accounting, the data fields are grouped on several tab pages.
