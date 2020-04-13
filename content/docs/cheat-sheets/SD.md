@@ -7,7 +7,9 @@ Transaction codes for Sales and Distribution.
 
 ## Master Data
 
-TCODE table - to be added
+TCODE | Description
+XD01/ 02/ 03 | Create/Change/Display customer. Data can be entered on the different levels e.g. Company code level, Sales Area level.
+
 
 ## Credit management
 
