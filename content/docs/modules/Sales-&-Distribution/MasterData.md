@@ -140,8 +140,8 @@ If you do not need the master data (customer / material and condition master dat
 
 By doing this, you can minimize the effort of entering and maintaining master data (customer / material and condition master data). In addition, you can update statistics for distribution channels without having to create master data for the various distribution channels.
 
-### common Division
+### Common Division
 
-If you do not need the master data (customer or condition master data) to be differentiated according to divisions, you have to set up a representative division (the common division). The master data in the representative division applies to all divisions for which you have set up this reference in Customizing.
+If you do not need the master data (customer or condition master data) to be differentiated according to divisions, you have to set up a representative division (the common division). The master data in the representative division applies to all divisions for which you have set up this reference in Customising.
 
-By doing this, you can minimize the effort of entering and maintaining master data. In addition, you can update statistics for divisions without having to create master data for the various divisions.
+By doing this, you can minimise the effort of entering and maintaining master data. In addition, you can update statistics for divisions without having to create master data for the various divisions.
