@@ -1,5 +1,6 @@
 ---
 title: SD
+Date: 2020-04-13
 ---
 # SD Cheat Sheet
 
@@ -9,7 +10,7 @@ Transaction codes for Sales and Distribution.
 
 TCODE | Description
 :--- | :---
-XD01/02/03 | Create/Change/Display Customer. Data can be entered on the different levels (e.g. at Company code, Sales Area)
+VD01/02/03 | Create/Change/Display Business Partner Customer
 XD04 | Display change documents – Track the changes for customer master
 XD05 | To block Customer on different levels (global or sales areas)
 VK11/12/13 | Create/ change/ display conditions (e.g. price discounts)
